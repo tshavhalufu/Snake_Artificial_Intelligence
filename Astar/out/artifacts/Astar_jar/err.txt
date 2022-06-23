@@ -1,0 +1,700 @@
+168
+apple 12,27
+tail 34,38
+going to space
+45,21
+45,20
+168
+apple 12,27
+tail 34,39
+going to space
+45,20
+45,19
+168
+apple 12,27
+tail 34,40
+going to space
+45,19
+45,18
+168
+apple 12,27
+tail 34,41
+going to space
+45,18
+45,17
+168
+apple 12,27
+tail 34,42
+going to space
+45,17
+45,16
+168
+apple 12,27
+tail 35,42
+going to space
+45,16
+46,16
+164
+apple 12,27
+tail 36,42
+going to space
+46,16
+46,17
+163
+apple 12,27
+tail 36,43
+going to space
+46,17
+46,18
+162
+apple 12,27
+tail 36,44
+Exception in thread "main" Exception in thread "main" Exception in thread "main" Exception in thread "main" java.lang.NullPointerException
+java.lang.NullPointerException
+java.lang.NullPointerException
+java.lang.NullPointerException
+	at MyAgent.run(MyAgent.java:31)
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)	at MyAgent.run(MyAgent.java:35)
+
+	at MyAgent.main(MyAgent.java:19)
+	at MyAgent.run(MyAgent.java:31)	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+	at MyAgent.run(MyAgent.java:31)
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+
+	at MyAgent.main(MyAgent.java:23)	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)	at MyAgent.main(MyAgent.java:19)
+
+
+	at MyAgent.main(MyAgent.java:19)
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+3 distance from apple to tail
+3 distance from apple to tail
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+3 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+Exception in thread "main" Exception in thread "main" Exception in thread "main" Exception in thread "main" java.lang.NullPointerExceptionjava.lang.NullPointerException
+java.lang.NullPointerException
+
+java.lang.NullPointerException
+	at MyAgent.run(MyAgent.java:31)
+	at MyAgent.run(MyAgent.java:35)	at MyAgent.run(MyAgent.java:31)	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+	at MyAgent.run(MyAgent.java:31)
+
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)	at MyAgent.main(MyAgent.java:19)
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+
+	at MyAgent.main(MyAgent.java:23)
+	at MyAgent.main(MyAgent.java:19)
+
+	at MyAgent.main(MyAgent.java:19)
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+going to space
+Exception in thread "main" Exception in thread "main" Exception in thread "main" Exception in thread "main" java.lang.NullPointerException
+java.lang.NullPointerExceptionjava.lang.NullPointerException
+
+	at MyAgent.run(MyAgent.java:31)
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+	at MyAgent.main(MyAgent.java:19)	at MyAgent.run(MyAgent.java:34)
+
+	at MyAgent.run(MyAgent.java:34)	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+
+java.lang.NullPointerException	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)	at MyAgent.main(MyAgent.java:22)
+
+
+	at MyAgent.main(MyAgent.java:22)
+	at MyAgent.run(MyAgent.java:34)
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+	at MyAgent.main(MyAgent.java:22)3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+Exception in thread "main" Exception in thread "main" Exception in thread "main" Exception in thread "main" java.lang.NullPointerException
+java.lang.NullPointerExceptionjava.lang.NullPointerException
+
+	at MyAgent.run(MyAgent.java:31)	at MyAgent.run(MyAgent.java:34)java.lang.NullPointerException
+
+	at MyAgent.run(MyAgent.java:34)
+
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+
+	at MyAgent.main(MyAgent.java:19)	at MyAgent.main(MyAgent.java:22)	at MyAgent.main(MyAgent.java:22)
+	at MyAgent.run(MyAgent.java:34)
+
+
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+	at MyAgent.main(MyAgent.java:22)
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail3 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail2 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+Exception in thread "main" Exception in thread "main" Exception in thread "main" Exception in thread "main" java.lang.NullPointerExceptionjava.lang.NullPointerException
+
+java.lang.NullPointerException	at MyAgent.run(MyAgent.java:31)
+
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)java.lang.NullPointerException
+
+	at MyAgent.main(MyAgent.java:19)	at MyAgent.run(MyAgent.java:31)
+
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+	at MyAgent.main(MyAgent.java:19)
+	at MyAgent.run(MyAgent.java:31)
+	at MyAgent.run(MyAgent.java:31)
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+	at MyAgent.main(MyAgent.java:19)
+	at MyAgent.main(MyAgent.java:19)
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail3 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail3 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail3 distance from apple to tail
+
+3 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+1 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail2 distance from apple to tail
+1 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tail
+3 distance from apple to tail
+2 distance from apple to tail
+2 distance from apple to tail
+1 distance from apple to tail
+2 distance from apple to tail
+3 distance from apple to tailException in thread "main" java.lang.NullPointerException
+	at MyAgent.run(MyAgent.java:31)
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+	at MyAgent.main(MyAgent.java:19)
+Exception in thread "main" Exception in thread "main" Exception in thread "main" Exception in thread "main" java.lang.NullPointerException
+java.lang.NullPointerExceptionjava.lang.NullPointerException	at MyAgent.run(MyAgent.java:31)
+
+
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+	at MyAgent.main(MyAgent.java:19)
+	at MyAgent.run(MyAgent.java:31)
+	at MyAgent.run(MyAgent.java:31)
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)	at MyAgent.main(MyAgent.java:19)
+
+	at MyAgent.main(MyAgent.java:19)
+java.lang.NullPointerException
+	at MyAgent.run(MyAgent.java:31)
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+	at MyAgent.main(MyAgent.java:19)
+Exception in thread "main" java.lang.NullPointerException
+	at MyAgent.run(MyAgent.java:34)
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+	at MyAgent.main(MyAgent.java:22)
+Exception in thread "main" java.lang.NullPointerException
+	at MyAgent.run(MyAgent.java:31)
+	at za.ac.wits.snake.DevelopmentAgent.start(Unknown Source)
+	at MyAgent.main(MyAgent.java:19)
